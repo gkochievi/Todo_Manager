@@ -1,0 +1,14 @@
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\bin\Debug\net9.0\Todo_Manager.exe
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\bin\Debug\net9.0\Todo_Manager.deps.json
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\bin\Debug\net9.0\Todo_Manager.runtimeconfig.json
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\bin\Debug\net9.0\Todo_Manager.dll
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\bin\Debug\net9.0\Todo_Manager.pdb
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.AssemblyInfoInputs.cache
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.AssemblyInfo.cs
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.csproj.CoreCompileInputs.cache
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.dll
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\refint\Todo_Manager.dll
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.pdb
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.genruntimeconfig.cache
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\ref\Todo_Manager.dll
