@@ -12,3 +12,4 @@ C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debu
 C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.pdb
 C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.genruntimeconfig.cache
 C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\ref\Todo_Manager.dll
+C:\Users\GelaKochievi\Desktop\Lessons\Lessons\Todo_Manager\Todo_Manager\obj\Debug\net9.0\Todo_Manager.sourcelink.json
